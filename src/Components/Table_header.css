@@ -1,0 +1,11 @@
+.table_header_text {
+  color: #001580;
+}
+
+.table_header {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 30px;
+  margin-top: 20px;
+  margin-right: 30px;
+}
